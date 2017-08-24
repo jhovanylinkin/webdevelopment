@@ -1,0 +1,2 @@
+# Ignora los archivos de dependencias de node
+/node_modules

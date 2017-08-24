@@ -1,0 +1,27 @@
+{
+  "name": "byethost",
+  "version": "0.1.0",
+  "description": "Pagina de prueba de la materia de programación web, agosto-diciembre 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhovanylinkin/webdevelopment.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "bulma.io"
+  ],
+  "author": "Jhovany Morales Bruno (jhovanymb.info@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhovanylinkin/webdevelopment/issues"
+  },
+  "homepage": "https://github.com/jhovanylinkin/webdevelopment#readme",
+  "dependencies": {
+    "bulma": "^0.5.1"
+  }
+}
