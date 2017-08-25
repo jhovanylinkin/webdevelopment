@@ -1,5 +1,4 @@
-# Programación web
-## Agosto - diciembre 2017 S8A
+# Programación web Agosto - diciembre 2017 S8A
 ## Notas
 * existe un archivo llamado host donde se almacena la resolucion de nombres de manera local. se ecuentra en la
 carpeta `/etc/hosts`
@@ -20,7 +19,7 @@ carpeta `/etc/hosts`
   * Damos permisos para poder modificar el directorio `/opt/htdocs`, con el comando:
   `sudo chmod a+w /opt/lampp/htdocs`
   * Creamos un enlace simbólico entre el directorio y una ubicación en nuestra carpeta personal, por ejemplo: **/home/usuario/Webs**, para de esta forma tener nuestros proyectos en la carpeta personal, con el comando:
-  `sudo ln -s /opt/lampp/htdocs /home/usuario/Webs`
+  ```sudo ln -s /opt/lampp/htdocs /home/usuario/Webs```
   **Nota:** donde pone “usuario” se ha de poner nuestro nombre de usuario.
 
 ### Habilitar [xampp server](https://www.apachefriends.org/es/index.html)

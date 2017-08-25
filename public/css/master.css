@@ -1,3 +1,13 @@
 .holo{
   background-color: gray;
 }
+p.pacifico{
+  font-family: 'Pacifico', cursive;
+  font-size: 30px;
+  color: purple;
+}
+p.blck{
+  font-size: 25px;
+  font-weight: bold;
+  color: black;
+}
